@@ -1,6 +1,6 @@
-# Buffalo Films
+# Elan Jones
 
-Website for Buffalo Films. Please go to [www.buffalofilms.co.uk](http://buffalofilms.co.uk) in case you want to take a look at the website.
+Website for Elan Jones. Please go to [www.elanmaijones.com](http://elanmaijones.com) in case you want to take a look at the website.
 
 * * *
 

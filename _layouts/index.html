@@ -2,25 +2,16 @@
 layout: default
 ---
 
-<!-- Description -->
-<section class="index__description">
+<!-- Index -->
+<section class="index">
 	<div class="row">
 		<div class="small-12 medium-10 large-7 columns">
-		<h1>Film production company set up by casting directors' Des Hamilton and Lara Manwaring</h1>
-		</div>
-	</div>
-</section>
-<!-- End Description -->
+		<h1><span class="sans-serif">Elan Jones</span> is a London-based Casting Director, working in the fields of film and television</h1>
+		
+		<div class="contact"><h1 class="sans-serif"><a href="mailto:info@elanmaijones.com">info@elanmaijones.com</a><br>
++44 (0)7969 859 955</h1></div>
 
-<!-- Content -->
-<section class="index__content">
-	<div class="row">
-		{% assign projects = site.projects | sort: 'date' | reverse | where: "is-featured", "true" %}
-		{% for project in projects limit:9 %}
-		<div class="small-12 medium-6 large-6 columns">
-		{% include excerpt.html %}
 		</div>
-		{% endfor %}
 	</div>
 </section>
-<!-- End Content -->
+<!-- End Index -->

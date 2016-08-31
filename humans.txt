@@ -63,10 +63,10 @@ slack.com
 FONTS
 -----
 
-Apercu
-by Colophon Foundry
-colophon-foundry.org
+Big Caslon
+by Font Bureau
+http://www.fontbureau.com
 
-Graphik
-by Commercial Type
-commercialtype.com
+Bau
+by Font Bureau
+http://www.fontbureau.com
