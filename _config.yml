@@ -40,8 +40,8 @@ imdb:
 vimeo: 
 linkedin: 
 googleplus: 
-googleanalytics:
-verification:
+googleanalytics: 
+verification: 
 logo: "/assets/img/layout/logo.svg"
 per_page: 12
 date_format: "%b %d, %Y"
