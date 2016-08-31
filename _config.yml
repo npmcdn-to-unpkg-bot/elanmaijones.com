@@ -40,13 +40,8 @@ imdb:
 vimeo: 
 linkedin: 
 googleplus: 
-<<<<<<< HEAD
 googleanalytics: UA-83447045-1
 verification: 2dBSz2bmoTAHVn3LQ1_zKyDyyErePCDTzHYCLMFIf2A
-=======
-googleanalytics: 
-verification: 
->>>>>>> origin/master
 logo: "/assets/img/layout/logo.svg"
 per_page: 12
 date_format: "%b %d, %Y"
